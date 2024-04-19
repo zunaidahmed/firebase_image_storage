@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "693968989868",
+    "project_id": "galleryapp-df005",
+    "storage_bucket": "galleryapp-df005.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693968989868:android:706dc5b05c4d76f5133909",
+        "android_client_info": {
+          "package_name": "com.example.firebase_image_storage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGwj3PYnzZMrK4SfygyS6O-8sW8IUlKEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
